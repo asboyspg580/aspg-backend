@@ -26,7 +26,7 @@ const ADMIN_PASSWORD = process.env.ADMIN_PASSWORD || 'admin123';
 
 // ── CORS ────────────────────────────────────────────────────────
 // Set ALLOWED_ORIGIN in your environment to your frontend's domain
-// e.g. https://asboyspg.netlify.app . Use "*" to allow everyone
+// e.g. https://dreamy-manatee-da2391.netlify.app/ . Use "*" to allow everyone
 // (fine for quick testing, not recommended for production).
 const ALLOWED_ORIGIN = process.env.ALLOWED_ORIGIN || '*';
 app.use(cors({ origin: ALLOWED_ORIGIN }));
