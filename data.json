@@ -1,0 +1,17 @@
+{
+  "rooms": [
+    {"id":1,"name":"Single Cabin","type":"Private","price":6500,"total":5,"occupied":3,"feats":["AC","Attached Washroom","Study Table","Wardrobe","WiFi"],"img":"🛏","bg":"linear-gradient(135deg,#FFF5EE,#FFE8D6)","popular":true},
+    {"id":2,"name":"Single Room","type":"Private Room","price":7000,"total":4,"occupied":2,"feats":["AC","Attached Washroom","Study Table","Wardrobe","Extra Storage"],"img":"🏠","bg":"linear-gradient(135deg,#F0FDF4,#DCFCE7)","popular":false},
+    {"id":3,"name":"Double Sharing","type":"Shared","price":6000,"total":8,"occupied":5,"feats":["AC","Shared Washroom","Study Table","Wardrobe","WiFi"],"img":"👥","bg":"linear-gradient(135deg,#EFF6FF,#DBEAFE)","popular":false},
+    {"id":4,"name":"Triple Sharing","type":"Shared","price":6000,"total":9,"occupied":9,"feats":["AC","Shared Washroom","Study Table","Wardrobe"],"img":"👥","bg":"linear-gradient(135deg,#F5F5F5,#EBEBEB)","popular":false}
+  ],
+  "enquiries": [],
+  "reviews": [
+    {"id":1,"name":"Rahul Sharma","course":"UPSC Preparation","rating":5,"text":"\"Best PG near Mukherjee Nagar. Food is amazing and staff is very helpful. Highly recommend to all UPSC aspirants!\""},
+    {"id":2,"name":"Pradeep Yadav","course":"UPSC Preparation","rating":5,"text":"\"Staying here for 8 months. Management is responsive and meals are home-like. Best value for money in this area.\""},
+    {"id":3,"name":"Vikas Singh","course":"Bank PO","rating":4,"text":"\"Clean rooms, CCTV security, just 5 minutes walk from coaching. WiFi is fast — online mock tests run perfectly.\""},
+    {"id":4,"name":"Amit Kumar","course":"SSC CGL","rating":5,"text":"\"AC room, fast WiFi, 3 meals daily — all included in price. Perfect study environment.\""},
+    {"id":5,"name":"Deepak Patel","course":"Delhi Police","rating":5,"text":"\"Security is excellent — feels safe even at night. Felt comfortable from day one. Highly recommended!\""}
+  ],
+  "media": []
+}
